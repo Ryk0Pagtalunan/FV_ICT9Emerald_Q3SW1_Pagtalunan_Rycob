@@ -1,0 +1,24 @@
+body{
+	background-color: #d92323;
+		background-image: url(https://i.pinimg.com/originals/54/0a/9d/540a9d8b863b3601e4653f42cbe243c1.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.container1{
+	background-color: #474E93;
+	width: 750px;
+	padding: 10px;
+	border: 5px solid #7E5CAD;
+	box-shadow: 2px 2px 15px rgb(0,0,0, 1.2);
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+p{
+	font-size: 25px;
+}
